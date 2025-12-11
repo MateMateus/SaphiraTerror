@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "SaphiraTerror.Api\\SaphiraTerror.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SaphiraTerror.Web\\SaphiraTerror.Web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
